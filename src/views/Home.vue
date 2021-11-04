@@ -1,7 +1,7 @@
 <template>
   <div
     class="container-fluid"
-    style="backgroundimage: url('/store-owner.jpg'); background-size: cover"
+    style="background-image: url('/store-owner.jpg'); background-size: cover"
   >
     <div class="row" style="height: 91vh">
       <div class="container-lg"></div>
